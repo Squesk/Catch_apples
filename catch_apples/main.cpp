@@ -6,6 +6,10 @@
 #include <cstdlib>
 #include <vector>
 
+
+// CATCH FLYING APPLES BY MOVING THE TRAY (USING YOUR MOUSE). EARN A POINT FOR EVERY APPLE. IF ANY APPLE FALLS, YOU WILL LOSE.
+
+
 bool end = false;
 int points = 0;
 
